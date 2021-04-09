@@ -1,8 +1,11 @@
 # search-page-demo
-Interface for HRL search page (draft 1)
+Interface for HRL search page. <br>
+Note that this page is mainly used to demonstrate the API functionality.
 
-Update 1/3:
-created main.js, results.js, updated results.html, index.html and stylesheets
+1. Search page
+Front-end allows to search by specific parameters in the Restaurant Owner Dataset (US Census) and retrieve requested data (with specific values) in a tabular format:<br>
+![Search Page](images/search-page.png)
 
-Update 26/3:
-connect to draft 2 front-end, allow search b
+2. Results page
+Results are displayed in a dynamic table that is changed based on the number and content of the columns and rows:<br>
+![Search Page](images/results.png)
